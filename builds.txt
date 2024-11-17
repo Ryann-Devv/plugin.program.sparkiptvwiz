@@ -4,7 +4,7 @@ zip=""
 
 name="SkyGlass"
 version="1.00"
-url="https://www.dropbox.com/scl/fi/vhir2sb9h9awetm4d8rr3/SkyGlassVAlpha1.zip?rlkey=o9nzbirh0jhjvwad3sx0760kj&st=4wiqe920&dl=1"
+url="https://www.dropbox.com/scl/fi/rffv2o4z0jw2qapkxqy61/SkyGlassV1.00.zip?rlkey=14xhtgcr1ohx0bxc025z15h2r&st=n0kytinf&dl=1"
 minor="http://"
 gui="https://www.dropbox.com/scl/fi/1i45f8uojtalpobajvd91/SkyGlassV1.00_guisettings.zip?rlkey=zkg9rv3a84azftrtqvsqtgeet&st=jn8e1gvn&dl=1"
 kodi="19.0"
