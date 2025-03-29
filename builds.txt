@@ -42,7 +42,7 @@ adult="no"
 info="url.to.info"
 description="A build by ryanndevv.xyz for personal use for help send me a message or email me at ryan@ryanndevv.xyz."
 name="TU -P - Aaron - TorBox"
-version="2.1a"
+version="2.2"
 url="https://www.dropbox.com/scl/fi/odhwj0kuozxtpdr7osra1/NewM.zip?rlkey=w2pm9vla1dap809ao9srauriu&st=avumeg3h&dl=1
 minor="http://"
 gui="https://www.dropbox.com/scl/fi/8vlqu3vkv5wcx63qt9tm2/NewM_guisettings.zip?rlkey=gz7j6qjnrrf2xsqb1eipbd7i9&st=zy3ddfzj&dl=1"
